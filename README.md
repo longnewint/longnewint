@@ -9,6 +9,7 @@
 <p>Connect with me on <a href="https://linkedin.com/in/abc">Linkedin</a>
  or <a href="https://linkedin.com/in/abc">Discord</a>
 </p>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="20" alt="Crown icon"/>
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
