@@ -2,6 +2,7 @@
 I'm Long and currently a software developer in Ottawa
 
 <h2>About me</h2>
+
 - 🌱 I’m learning **Flink** and **RisingWave**
 
 - 🙏 I appreciate simple things
