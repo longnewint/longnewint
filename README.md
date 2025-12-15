@@ -1,8 +1,9 @@
 <h1 align="left">Hey 👋, What's up?</h1>
-<h3 align="left">I'm Long and currently a software developer in Ottawa</h3>
+I'm Long and currently a software developer in Ottawa
 
+<h2>About me</h2>
 - 🌱 I’m learning **Flink** and **RisingWave**
-
+- 🙏 I appreciate simple things
 <h3 align="left">
 <p>
 Connect with me on <a href="https://linkedin.com/in/abc">Linkedin</a>
