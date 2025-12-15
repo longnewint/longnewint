@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning **Flink** and **RisingWave**
 
 <h3 align="left">
-<span>Connect with me on </span>
-<a href="https://linkedin.com/in/abc>Linkedin</a>
-<a href="https://linkedin.com/in/abc>Linkedin</a>
+<p>Connect with me on <a href="https://linkedin.com/in/abc">Linkedin</a>
+ or <a href="https://linkedin.com/in/abc">Discord</a>
+</p>
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
