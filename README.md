@@ -9,7 +9,8 @@ I'm Long and currently a software developer in Ottawa
 
 # My projects
 
-## [vMart eCommerce](https://vmart.easyjava.xyz)
+### [vMart eCommerce](https://vmart.easyjava.xyz)
+
 An online retail site written in Quarkus and Vue backed by PostgreSQL
 
 ---
