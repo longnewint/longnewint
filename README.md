@@ -1,13 +1,13 @@
-# Hey 👋, What's up?
+## Hey 👋, What's up?
 I'm Long and currently a software developer in Ottawa
 
-# About me
+## About me
 
 - 🌱 I’m learning **Flink** and **RisingWave**
 
 - 🙏 I appreciate simple things
 
-# My projects
+## My projects
 
 ### [vMart eCommerce](https://vmart.easyjava.xyz)
 
@@ -15,12 +15,7 @@ An online retail site written in Quarkus and Vue backed by PostgreSQL
 
 ---
 
-<h3 align="left">
-<p>
-Connect with me on <a href="https://linkedin.com/in/long-nguyen-5844a5342">Linkedin</a>
- or <a href="mailto:longnewint@gmail.com">Email</a>
-</p>
-</h3>
+## Connect with me on [Linkedin](https://linkedin.com/in/long-nguyen-5844a5342) or [Email](mailto:longnewint@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
