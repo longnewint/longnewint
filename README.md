@@ -7,6 +7,10 @@ I'm Long and currently a software developer in Ottawa
 
 - 🙏 I appreciate simple things
 
+<h2>My projects</h2>
+
+<a href="https://vmart.easyjava.xyz">vMart eCommerce</a>
+
 <h3 align="left">
 <p>
 Connect with me on <a href="https://linkedin.com/in/long-nguyen-5844a5342">Linkedin</a>
