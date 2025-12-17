@@ -17,7 +17,8 @@ An online retail site written in Quarkus and Vue backed by PostgreSQL
 
 ## Connect with me on [Linkedin](https://linkedin.com/in/long-nguyen-5844a5342) or [Email](mailto:longnewint@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
+
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
