@@ -13,6 +13,8 @@ I'm Long and currently a software developer in Ottawa
 <a href="https://vmart.easyjava.xyz">vMart eCommerce</a>
 </h3>
 
+---
+
 <h3 align="left">
 <p>
 Connect with me on <a href="https://linkedin.com/in/long-nguyen-5844a5342">Linkedin</a>
