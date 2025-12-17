@@ -1,17 +1,15 @@
-<h1 align="left">Hey 👋, What's up?</h1>
+# Hey 👋, What's up?
 I'm Long and currently a software developer in Ottawa
 
-<h2>About me</h2>
+# About me
 
 - 🌱 I’m learning **Flink** and **RisingWave**
 
 - 🙏 I appreciate simple things
 
-<h2>My projects</h2>
+# My projects
 
-<h3>
-<a href="https://vmart.easyjava.xyz">vMart eCommerce</a>
-</h3>
+## [vMart eCommerce](https://vmart.easyjava.xyz)
 An online retail site written in Quarkus and Vue backed by PostgreSQL
 
 ---
