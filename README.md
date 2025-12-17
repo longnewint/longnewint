@@ -9,8 +9,8 @@ I'm Long and currently a software developer in Ottawa
 
 <h3 align="left">
 <p>
-Connect with me on <a href="https://linkedin.com/in/abc">Linkedin</a>
- and <a href="https://linkedin.com/in/abc">Discord</a>
+Connect with me on <a href="https://linkedin.com/in/long-nguyen-5844a5342">Linkedin</a>
+ or <a href="mailto:longnewint@gmail.com">Email</a>
 </p>
 </h3>
 
