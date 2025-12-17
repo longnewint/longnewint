@@ -11,10 +11,8 @@ I'm Long and currently a software developer in Ottawa
 
 <h3>
 <a href="https://vmart.easyjava.xyz">vMart eCommerce</a>
-<p>
-An online retail site written in Quarkus and Vue backed by PostgreSQL
-</p>
 </h3>
+An online retail site written in Quarkus and Vue backed by PostgreSQL
 
 ---
 
